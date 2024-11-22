@@ -1,0 +1,13 @@
+whichCrypt  C:\Users\upend\Documents\whichCrypt\Resources\whichCrypt
+  .venv  library root
+  allCipherHashlib.py
+  conversationText.txt
+  main.py
+  main2.py
+  newtxt.txt
+  training_dataset_whichCrypt.csv
+  training_dataset_whichCrypt2.csv
+External Libraries
+Scratches and Consoles
+  Extensions
+  Scratches

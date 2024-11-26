@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0USN8JVYnc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aryan\\source\\repos\\TestDemo1\\Demo1\\Demo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

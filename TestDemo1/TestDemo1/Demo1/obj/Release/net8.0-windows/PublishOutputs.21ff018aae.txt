@@ -1,0 +1,5 @@
+D:\whichCrypt\Demo1.exe
+D:\whichCrypt\Demo1.dll
+D:\whichCrypt\Demo1.deps.json
+D:\whichCrypt\Demo1.runtimeconfig.json
+D:\whichCrypt\Demo1.pdb

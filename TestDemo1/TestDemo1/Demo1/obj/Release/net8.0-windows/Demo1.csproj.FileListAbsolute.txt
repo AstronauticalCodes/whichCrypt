@@ -1,0 +1,16 @@
+C:\Users\aryan\source\repos\TestDemo1\Demo1\bin\Release\net8.0-windows\Demo1.exe
+C:\Users\aryan\source\repos\TestDemo1\Demo1\bin\Release\net8.0-windows\Demo1.deps.json
+C:\Users\aryan\source\repos\TestDemo1\Demo1\bin\Release\net8.0-windows\Demo1.runtimeconfig.json
+C:\Users\aryan\source\repos\TestDemo1\Demo1\bin\Release\net8.0-windows\Demo1.dll
+C:\Users\aryan\source\repos\TestDemo1\Demo1\bin\Release\net8.0-windows\Demo1.pdb
+C:\Users\aryan\source\repos\TestDemo1\Demo1\obj\Release\net8.0-windows\Demo1.Form1.resources
+C:\Users\aryan\source\repos\TestDemo1\Demo1\obj\Release\net8.0-windows\Demo1.csproj.GenerateResource.cache
+C:\Users\aryan\source\repos\TestDemo1\Demo1\obj\Release\net8.0-windows\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\source\repos\TestDemo1\Demo1\obj\Release\net8.0-windows\Demo1.AssemblyInfoInputs.cache
+C:\Users\aryan\source\repos\TestDemo1\Demo1\obj\Release\net8.0-windows\Demo1.AssemblyInfo.cs
+C:\Users\aryan\source\repos\TestDemo1\Demo1\obj\Release\net8.0-windows\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\aryan\source\repos\TestDemo1\Demo1\obj\Release\net8.0-windows\Demo1.dll
+C:\Users\aryan\source\repos\TestDemo1\Demo1\obj\Release\net8.0-windows\refint\Demo1.dll
+C:\Users\aryan\source\repos\TestDemo1\Demo1\obj\Release\net8.0-windows\Demo1.pdb
+C:\Users\aryan\source\repos\TestDemo1\Demo1\obj\Release\net8.0-windows\Demo1.genruntimeconfig.cache
+C:\Users\aryan\source\repos\TestDemo1\Demo1\obj\Release\net8.0-windows\ref\Demo1.dll
